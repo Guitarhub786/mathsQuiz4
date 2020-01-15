@@ -46,7 +46,7 @@ function init() {
 function startMatch() {
     if (matchSums()) {
         isPlaying = true;
-        time = 6;
+        time = 66;
         showSum(quiz);
         domInput.value = '';
         score++;
