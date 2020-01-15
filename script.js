@@ -9,7 +9,7 @@ var quiz = [
 ];
 
 
-let time = 5;
+let time = 55;
 let score = 0;
 let isPlaying;
 
